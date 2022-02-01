@@ -83,7 +83,9 @@ Præfikset `f` kaldes femto og står for `10^−15`, så `8,0 fJ` er `8,0 * (10^
 Hvilken spændingsforskel er der mellem polerne i røntgenapparatet?
 
 ```
+E = 
 
+U = E / q
 ```
 
 #### Opgave 4.5.2
@@ -95,19 +97,40 @@ Strygejernet benyttes i `10` minutter.
 Beregn størrelsen af den ladning, der er strømmet gennem strygejernet i løbet af de `10` minutter.
 
 ```
+I = 4,6A
+U = 230V
+t = 10m = 600s
+q = ?
 
+I = q / t
+
+q = I * t
+
+q = 4,6 * 600s
+
+q = 2760C
 ```
 
 Hvor meget energi er der afsat?
 
 ```
+U = E / q
 
+E = U * q
+
+E = 230V * 2760C
+
+E = 634800J
 ```
 
 Hvor stor er den omsatte effekt?
 
 ```
+P = E / t
 
+P = 634800J / 600s
+
+P = 1058W
 ```
 
 ### Komponenter
