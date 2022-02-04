@@ -19,3 +19,13 @@ Hovedgruppe == Elektroner i yderste skal, udover helium.
 
 En atom kan have `2*n^2` elektron i alt, hvor `n` er antal skalleantal skallerr.
 
+### Bindinger
+
+1. Ion-forbindelser, salt
+2. Molekyler, elektronpar
+3. Metaller
+
+Metaller danner altid positive ioner
+
+Ikke-metaller dannar altid negative ioner
+
