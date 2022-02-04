@@ -527,6 +527,122 @@ R = rho * (L / (pi * (Ø / 2)^2))
 
 R = (0,0489 * 10^-6Ω*m) * (3,0m / (pi * ((6,0 * 10^-4m) / 2)^2))
 
-R = 0,518845114Ω
+R = 0,518845114Ω ??? 
 ```
+
+#### Opgave 4.9.2
+
+Beregn resistansen ved 0ºC i en 2,5 m lang jerntråd med diameteren 0,50 mm.
+
+```
+rho = 0,089 * 10^-6
+L = 2,5m
+Ø = 0,5mm = 0,0005m
+R = ?
+
+R = rho * (L / A)
+
+A = pi * (Ø / 2)
+
+R = rho * (L / (pi * (Ø / 2)^2))
+
+R = (0,089 * 10^-6) * (2,5m / (pi * (0,0005m / 2)^2))
+
+R = 1,133183195Ω ???
+```
+
+### Serieforbindelser
+
+```
+R = R_1 + R_2 + ...R_n
+
+I = I_1 = I_2 = ...I_n
+
+U = U_1 + U_2 + ...U_n
+```
+
+#### Opgave 4.11.1
+
+![](./assets/circuit1.png)
+
+Bestem strømmen gennem kredsløbet, når `R_1 = 2Ω` og `R_2 = 3Ω`
+
+```
+U = 10V
+
+R_res = ...+ R_n
+
+R_res = R_1 + R_2 = 2Ω + 3Ω
+
+R_res = 5Ω
+
+U = R * I
+
+I = U / R
+
+I = 10V / 5Ω
+
+I = 2A
+```
+
+Bestem spændingsforskellen over `R_2`
+
+```
+R = 3Ω
+I = 2A
+
+U = R * I
+
+U = 3Ω * 2A
+
+U = 6V
+```
+
+#### Opgave 4.11.2
+
+![](./assets/circuit1.png)
+
+To resistorer forbindes i serie.
+
+Den ene er en normal resistor.
+
+Den anden er en variabel resistor, som kan ændre resistans mellem nul og en maksimal værdi, når man drejer på en knap.
+
+De forbindes til et 9 V batteri, og man skal kunne regulere strømstyrken mellem 15 mA og 60 mA, når man drejer på knappen.
+
+Hvilken værdi skal den faste resistor have?
+
+```
+U = 9V
+I = 15mA = 0,015A
+
+U = R * I
+
+R = U / I
+
+R = 9V  / 0,015A
+
+R = 600Ω
+```
+
+Hvad skal den variable resistors maksimale værdi være?
+
+```
+U = 9V
+I = 60mA = 0,006A
+R_fast = 600Ω
+
+R_total = R_fast + R_var
+
+R_total = U / I
+
+R_var = R_total - R_fast
+
+R_var = U / I - R_fast
+
+R_var = 9V / 0,006A - 600Ω
+
+R_var = 900Ω
+```
+
 
