@@ -667,4 +667,37 @@ R = (R_1^-1 + R_2^-1 + ...R_n^-1)^-1
 I = I_1 + I_2 + ...I_n
 ```
 
+#### Opgave 4.14.1
+
+![](./assets/circuit3.png)
+
+Beregn erstatningsresistansen i hver af de viste tre resistorkoblinger.
+
+```
+// serie
+R = R_1 + R_2 + ...R_n
+
+// parallel
+R  = 1 / (1 / R_1 + 1 / R_2 + ...1 / R_n)
+
+1. R = 22ohm + 6ohm + 12ohm = 40ohm
+
+2. R = 22ohm + 1 / (1 / 120ohm + 1 / 120ohm) = 82ohm
+
+3. R = 1 / (1 / (5ohm + 2,5ohm) + 1 / (1 / (1 / 5ohm + 1 / 5ohm) + 7,5ohm)) = 4,191176471ohm
+```
+
+#### Opgave 4.14.2
+
+![](./assets/circuit4.png)
+
+I det viste kredsløb er spændingsforskellen 9V, og der er tre modstande i kredsløbet.
+
+Bestem spændingsforskellen over hver modstand.
+
+```
+7,216V, 1,8V og 1,8V
+```
+
+![](./assets/note1.jpg)
 
