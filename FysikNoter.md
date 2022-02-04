@@ -600,7 +600,7 @@ U = 6V
 
 #### Opgave 4.11.2
 
-![](./assets/circuit1.png)
+![](./assets/circuit2.png)
 
 To resistorer forbindes i serie.
 
