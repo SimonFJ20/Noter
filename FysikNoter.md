@@ -647,4 +647,24 @@ R_var = 9V / 0,006A - 600Ω
 R_var = 900Ω
 ```
 
+### Parallelforbindelser
+
+![](./assets/board2.jpg)
+
+```
+I = I_1 + I_2 + ...I_n
+
+U = U_1 = U_2 = ...U_n
+
+R  = 1 / (1 / R_1 + 1 / R_2 + ...1 / R_n)
+
+R = (R_1^-1 + R_2^-1 + ...R_n^-1)^-1
+```
+
+#### Kirchoffs lov
+
+```
+I = I_1 + I_2 + ...I_n
+```
+
 
