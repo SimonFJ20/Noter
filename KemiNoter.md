@@ -29,3 +29,28 @@ Metaller danner altid positive ioner
 
 Ikke-metaller dannar altid negative ioner
 
+#### Side 70 Opgave 2.9
+
+- KBr
+- CaO
+- CaS
+
+#### Side 70 Opgave 2.10
+
+```
+K   -> K^+
+O   -> O^2-
+S   -> S^2-
+Br  -> Br^-
+Ca  -> Ca^2+
+Al  -> Al^3+
+Xe  -> _
+```
+
+| `I^-` | `N^3-` | `O^2-`
+---|---|---|---
+`K^+`   | `K` | `K` | `K`
+`Mg^2+` | `Mg` | `Mg` | `Mg`
+`Al^3+` | `Al` | `Al` | `Al`
+
+
