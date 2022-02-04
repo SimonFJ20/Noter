@@ -553,6 +553,8 @@ R = 1,133183195Ω ???
 
 ### Serieforbindelser
 
+![](./assets/board1.png)
+
 ```
 R = R_1 + R_2 + ...R_n
 
