@@ -27,3 +27,13 @@ O = ax^2 + bx + c
 -(C / a) = x^2 + (a / b) * x
 ```
 
+## Vektorer
+
+### PDF Vektorer 1 – Vektor koordinater og længder
+
+#### Opgave 1
+
+##### a)
+
+
+

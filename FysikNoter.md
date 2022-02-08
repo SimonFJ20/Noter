@@ -701,3 +701,28 @@ Bestem spændingsforskellen over hver modstand.
 
 ![](./assets/note1.jpg)
 
+#### 4.12 Eksempel: Beregning af den udnyttede effekt -> Regn selv
+
+```
+U_0 = 12V
+R_i = 0,5ohm
+R_y = 1ohm
+
+I = U_0 / (R_i + R_y) = 12V / (0,5ohm + 1ohm) = 12V / 1,5ohm
+I = 8A
+
+U_y = R_y * I = 1ohm * 8A
+U_y = 8V
+
+U_i = R_i * I = 0,5ohm * 8A
+U_i = 4V
+
+P_y = R_y * I^2 = 1ohm * (8A)^2 = 1ohm * 64A
+P_Y = 64W
+
+P_i = R_i * I^2 = 0,5ohm * (8A)^2 = 0,5ohm * 64A
+P_i = 32W
+
+(64W / (64W + 32W)) * 100% = 66,666666667%
+```
+
