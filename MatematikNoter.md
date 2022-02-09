@@ -29,6 +29,54 @@ O = ax^2 + bx + c
 
 ## Vektorer
 
+### Areal af parallellogram bevis
+
+```
+->A_2 = (x_2, y_2)
+
+->A_1 = (x_1, y_1)
+
+A_3 = A_1 -> A_2
+
+A: arealelet af vektorernes trekant
+
+r: rectangel præcist rund om vektorerne
+
+A = r - A_2 - A_2 - A_3
+
+r = x_1 * y_2
+
+A_2 = 1/2 * x_2 * y_2
+
+A_1 = 1/2 * x_1 * y_1
+
+A_3 = 1/2 * (y_2 - y_1) * (x_1 - x_2)
+
+A_3 = 1/2 * (y_2 * x_1 - y_2 * x_2 - y_1 * x_1 + y_1 * x_2)
+
+A_3 = 1/2 * y_2 * x_1 - 1/2 * y_2 * x_2 - 1/2 * y_1 * x_1 + 1/2 * y_1 * x_2
+
+A = r - A_2 - A_1 - A_3
+
+A = x_1 * y_2 - 1/2 * x_2 * y_2 - A_1 = 1/2 * x_1 * y_1 - (1/2 * y_2 * x_1 - 1/2 * y_2 * x_2 - 1/2 * y_1 * x_1 + 1/2 * y_1 * x_2)
+
+A = x_1 * y_1 - 1/2 * x_2 * y_2 - 1/2 * x_1 * y_1 + 1/2 * y_2 * x_1 + 1/2 * y_2 * x_2 + 1/2 * y_1 * x_1 - 1/2 * y_1 * x_2
+
+- 1/2 * x_2 * y_2 og - 1/2 * x_1 * y_1 forsvinder, pga. udligning
+
+A = 1/2 * x_1 * y_1 - 1/2 * y_1 * x_2
+
+A = 1/2 * (x_1 * y_2 - y_1 * x_2)
+
+A_p: arealet af det udspændte parallellogram
+
+A_p = A * 2
+
+A_p = 1/2 * (x_1 * y_2 - y_1 * x_2) * 2
+
+A_p = x_1 * y_2 - y_1 * x_2
+```
+
 ### PDF Vektorer 1 – Vektor koordinater og længder
 
 #### Opgave 1
