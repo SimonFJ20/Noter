@@ -49,8 +49,13 @@ Xe  -> _
 
 |  | `I^-` | `N^3-` | `O^2-` |
 |---|---|---|---|
-| `K^+` | `K` | `K` | `K` |
-| `Mg^2+` | `Mg` | `Mg` | `Mg` |
-| `Al^3+` | `Al` | `Al` | `Al` |
+| `K^+` | `KI` | `K_3N` | `K_2O` |
+| `Mg^2+` | `MgI_2` | `Mg_3N_2` | `MgO` |
+| `Al^3+` | `AlI_3` | `AlN` | `Al_2O_3` |
 
+#### Side 70 Opgave 2.11
+
+- 1 Bariumbromid
+- 2 Kaliumiodid
+- 3 Aluminiumoxid
 
