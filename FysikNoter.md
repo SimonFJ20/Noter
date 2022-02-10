@@ -726,3 +726,43 @@ P_i = 32W
 (64W / (64W + 32W)) * 100% = 66,666666667%
 ```
 
+#### 4.15.1
+
+
+En elpære har en resistans på 529 \omega, når den lyser. Den forbindes til en vekselspænding med effektivværdien 230 V.
+
+Bestem den effektive og maksimale strøm i pæren.
+
+```
+V_eff = 230 V
+
+V_max = sqrt(2) * V_eff
+
+V_max = sqrt(2) * 230 V = 325,269119346 V
+```
+
+Bestem pærens effekt.
+
+```
+V_eff = 230V
+
+P = U * I
+
+U = R * I <=> I = U / R
+
+P = U * U / R = U^2 / R
+
+P = (230 V)^2 / 529 \omega = 100 W
+```
+
+Bestem pærens energiforbrug, hvis pæren er tændt i et døgn.
+
+```
+s = 1døgn = 24 t * 60 m * 60 s = 86400 s
+
+P = 100 W // fra sidste beregning
+
+P = E / s <=> E = P * s
+
+E = 100 W * 86400 s = 8640000 J
+```
