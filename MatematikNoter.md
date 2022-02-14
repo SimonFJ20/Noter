@@ -29,6 +29,54 @@ O = ax^2 + bx + c
 
 ## Vektorer
 
+### Areal af parallellogram bevis
+
+```
+->A_2 = (x_2, y_2)
+
+->A_1 = (x_1, y_1)
+
+A_3 = A_1 -> A_2
+
+A: arealelet af vektorernes trekant
+
+r: rectangel præcist rund om vektorerne
+
+A = r - A_2 - A_2 - A_3
+
+r = x_1 * y_2
+
+A_2 = 1/2 * x_2 * y_2
+
+A_1 = 1/2 * x_1 * y_1
+
+A_3 = 1/2 * (y_2 - y_1) * (x_1 - x_2)
+
+A_3 = 1/2 * (y_2 * x_1 - y_2 * x_2 - y_1 * x_1 + y_1 * x_2)
+
+A_3 = 1/2 * y_2 * x_1 - 1/2 * y_2 * x_2 - 1/2 * y_1 * x_1 + 1/2 * y_1 * x_2
+
+A = r - A_2 - A_1 - A_3
+
+A = x_1 * y_2 - 1/2 * x_2 * y_2 - A_1 = 1/2 * x_1 * y_1 - (1/2 * y_2 * x_1 - 1/2 * y_2 * x_2 - 1/2 * y_1 * x_1 + 1/2 * y_1 * x_2)
+
+A = x_1 * y_1 - 1/2 * x_2 * y_2 - 1/2 * x_1 * y_1 + 1/2 * y_2 * x_1 + 1/2 * y_2 * x_2 + 1/2 * y_1 * x_1 - 1/2 * y_1 * x_2
+
+- 1/2 * x_2 * y_2 og - 1/2 * x_1 * y_1 forsvinder, pga. udligning
+
+A = 1/2 * x_1 * y_1 - 1/2 * y_1 * x_2
+
+A = 1/2 * (x_1 * y_2 - y_1 * x_2)
+
+A_p: arealet af det udspændte parallellogram
+
+A_p = A * 2
+
+A_p = 1/2 * (x_1 * y_2 - y_1 * x_2) * 2
+
+A_p = x_1 * y_2 - y_1 * x_2
+```
+
 ### PDF Vektorer 1 – Vektor koordinater og længder
 
 #### Opgave 1
@@ -196,4 +244,79 @@ sin(v_->a) = y / |->a|
 cos(c_->a) = x / |->a|
 ```
 
+// TODO
+
+### PDF Vektorer 3 – Addition og subtraktion
+
+#### Opgave 1
+
+a)
+
+```
+->a = (2, 4)
+
+->b = (4, 0)
+
+->a + ->b = (2, 4) + (4, 0) = (2 + 4, 4 + 0) = (6, 4)
+```
+
+![image](https://user-images.githubusercontent.com/28040410/153202399-06a07851-8847-463c-b225-f534e5a89ef0.png)
+
+b)
+
+```
+->a = (2, 4)
+
+->b = (4, 0)
+
+->b + ->a = (4, 0) + (2, 4) = (4 + 2, 0 + 4) = (6, 4)
+```
+
+![image](https://user-images.githubusercontent.com/28040410/153202916-6f2c4b9b-0990-437d-b946-64f3a130d299.png)
+
+c)
+
+```
+->l = (6, 3)
+
+->m = (4, -6)
+
+->EF = (3, 3)
+
+->l + ->m + ->EM = (6, 3) + (4, -6) + (3, 3) = (6 + 4 + 3, 3 + -6 + 3) = (13, 0)
+```
+
+![image](https://user-images.githubusercontent.com/28040410/153203856-9740eb33-4420-42a6-9eca-0286e17b1b77.png)
+
+d)
+
+```
+->b = (0, 4)
+
+->k = (0, 11)
+
+->DC = (0, -4)
+
+->l = (6, 3)
+
+->m = (4, -6)
+
+->f = (3, 5)
+
+->b + ->k + ->DC + ->l + ->m + ->f = (0, 4) + (0, 11) + (0, -4) + (6, 3) + (4, -6) + (3, 5) = (6 + 4 + 3, 4 + 11 + -4 + 3 + -6 + 5) = (13, 9)
+```
+
+![image](https://user-images.githubusercontent.com/28040410/153208077-451e9c99-5391-454b-b545-2fd376c94f89.png)
+
+#### Opgave 2
+
+#### Opgave 3
+
+#### Opgave 4
+
+### PDF Vektorer 4 – Ligevægt
+
+#### Opgave 1
+
+#### Opgave 2
 
