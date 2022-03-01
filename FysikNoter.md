@@ -766,3 +766,27 @@ P = E / s <=> E = P * s
 
 E = 100 W * 86400 s = 8640000 J
 ```
+
+#### 8.3.1
+
+En pram trækkes af to slæbebåde. Den ene trækker med `240 kN` mod nord og den anden med `350 kN` mod nordvest.
+
+Beregn størrelsen af den resulterende kraft.
+
+```
+F_A = 240 kN
+->F_A = (1, 0) * F_A
+-> F_A = (240 kN, 0 kN)
+F_B = 350 kN
+->F_B = sqrt(FB^2 / 2)
+->F_B = sqrt((350 kN)^2 / 2) * (1, 1)
+->F_B = (247,49 kN, 247,49 kN)
+->F_res = F_A + F_B
+->F_res = (240 kN, 0 kN) + (247,49 kN, 247,49 kN)
+->F_res = (240 kN + 247,49 kN, 0 kN + 247,49 kN)
+->F_res = (487,49 kN, 247,49 kN)
+F_res = sqrt(x^2 + y^2)
+F_res = sqrt((487,49 kN)^2 + (247,49 kN)^2)
+F_res = 546,72 kN
+```
+
