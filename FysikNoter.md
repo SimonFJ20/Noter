@@ -790,3 +790,97 @@ F_res = sqrt((487,49 kN)^2 + (247,49 kN)^2)
 F_res = 546,72 kN
 ```
 
+### Mekanik - 2-dimensionelle bevægelser
+
+Fysisk størelse | Symbol | Enhed
+---|---|---
+Strækning langs `y` | `S_y` | `[m]`
+Strækning langs `x` | `S_x` | `[m]`
+Hastighed | `v` | `m/s`
+Start hastighed | `v_0` | `[m/s]`
+Acceleration | `a` | `[m/s^2]`
+Tid | `t` | `s`
+
+#### Opgave 10.1.1
+
+En firhjulstrukken bil på 1400 kg kører med lav og konstant fart op ad en vej som skråner 15° (det er meget).
+
+Vi ser bort fra luftmodstand mm.
+
+Beregn størrelsen af kræfterne på bilen. Tegn kræfterne i rigtigt størrelsesforhold.
+
+```
+%theta = 15°
+
+m = 1400 kg
+
+g = 9,82 m/s^2 = 9,82 N/kg
+
+// eftersom bilen har konstant hastighed kan vi sige
+->F_t = ->F_n + ->F_µ
+
+// vi rotere rummet, så F_µ er x-aksen og F_n er y-aksen
+F_tx = -F_µ
+
+F_ty = -F_n
+
+F_tx = F_t * sin(%theta) = m * g * sin(%theta)
+
+F_tx = 1400 kg * 9,82 N/kg * sin(15°)
+
+F_ty = 1400 kg * 9,82 N/kg * cos(15°)
+
+F_tx = 3558,24 N
+
+F_ty = 13279,55 N
+```
+
+#### Opgave 10.4.1
+
+```
+ax^2 + bx + c
+
+x = (-b (+-)sqrt(D)) / 2 * a
+
+D = b^2 - 4 * a * c
+```
+
+
+
+En metalkugle skydes vandret ud fra et bord, `1,3 m` over gulvet. Farten er `6,1 m/s`.
+
+Hvor lang tid går der, før kuglen rammer gulvet?
+
+```
+g = 9,82 m/s^2
+
+s_y0 = 1,3 m
+
+v_0 = 6,1 m/s
+
+S_y = 1/2 * a_y * t^2 + v_0y * t + S_y0
+
+a_y = g
+
+v_0y = 0
+
+S_y0 = 1,3 m
+
+%theta = 0°
+
+v_0y = v_0 * sin(%theta) = 0
+
+S_y = 1/2 * a_y * t^2 + s_y0
+
+S_y = 1/2 * a_y * t^2 + 1,3 m
+
+S_y = (S_y - S_y0) / (1/2 * a_y)
+
+S_y = 0 // taget højde for på forhånd med S_y0
+
+t = sqrt((0 - 1,3 m) / (1/2 * (-9,82 m/s^2))) = 0,51 s
+```
+
+Hvor langt hen ad gulvet rammer den?
+
+
