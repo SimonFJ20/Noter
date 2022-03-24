@@ -1,0 +1,389 @@
+﻿
+<!DOCTYPE html>
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" lang="da">
+<head id="m_htmlheadctrl"><meta charset="UTF-8" /><meta name="google" value="notranslate" /><meta http-equiv="content-type" content="text/html;charset=utf-8" /><meta http-equiv="Content-Style-Type" content="text/css" /><meta name="msapplication-tooltip" content="Tooltip: Starter Lectio" /><meta name="msapplication-window" content="width=1024;height=768" /><meta name="msapplication-navbutton-color" content="#2033FF" /><meta name="viewport" content="width=device-width,minimum-scale=0.5,maximum-scale=2.5,initial-scale=1" /><title>
+	Lectio Log ind - Lectio - Mercantec
+</title><link rel="apple-touch-icon" sizes="144x144" href="/lectio/img/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon" sizes="114x114" href="/lectio/img/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon" sizes="72x72" href="/lectio/img/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon" href="/lectio/img/apple-touch-icon-precomposed.png" /><link id="m_faviconxx" rel="icon" sizes="57x57" type="image/png" href="/lectio/img/favicon57.png" /><link rel="icon" sizes="114x114" type="image/png" href="/lectio/img/favicon114.png" /><link href="/lectio/content/lectio-css.bundle.css?DummyID=AslDVofdZwLbH3tNCFYKSg2" rel="stylesheet" type="text/css" media="all" /></head>
+<body  style='text-align: center;'>
+
+<meta name="application-name" content="Lectio- Mercantec" />
+<meta name="msapplication-starturl" content="/lectio/577/default.aspx" />
+
+<noscript>
+	<meta http-equiv="Refresh" content="0;URL=/lectio/ErrorNoJava.aspx" />
+	<br /><br /><h1>ADVARSEL!!</h1>Lectio kræver JavaScript.<br /><br /><a href="/lectio/ErrorNoJava.aspx">Klik HER</a>
+</noscript>
+
+<div class="ls-master-container1" id="masterContent" >
+<form method="get" action="ContentSearch.aspx" id="search" name="search">
+	<input type="hidden" name="query"/>
+</form>
+<form method="post" action="./login.aspx?prevurl=lc%2f52507537704%2fres%2f52507537705%2fStudy+Guide_CI_2nd+year.pdf" onsubmit="javascript:return WebForm_OnSubmit();" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'm_defaultformbtn')" id="aspnetForm" class="ls-master-container2" autocomplete="off">
+<div class="aspNetHidden">
+<input type="hidden" name="time" id="time" value="0" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__SCROLLPOSITION" id="__SCROLLPOSITION" value="" />
+<input type="hidden" name="__VIEWSTATEX" id="__VIEWSTATEX" value="oAAAAGlpZQotNDQ2NjMxODMxaWwCawCBbAJoaWRsAmcCaWwCawFlA29mZmwCZwNpZGwCZwVpZGwCgWlkbAJnCWlkbASBaWwCawJlCU1lcmNhbnRlY2RnB2lkbAKBaWRsAoFpamlsAmsDcGRkZGRyAWUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fbAFlDG0kQ2hvb3NlVGVybQQAAAATVmFsaWRhdGVSZXF1ZXN0TW9kZQxhdXRvY29tcGxldGUJaW5uZXJodG1sB0NoZWNrZWQAfAMQd2K6j7U6ZnhEKY/chTQuoEA=" />
+<input type="hidden" name="__VIEWSTATEY_KEY" id="__VIEWSTATEY_KEY" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/lectio/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZIY9fEuYBdTX3a2ah-VSNtaZR2saAWn_EqXbntz4nGd6gbfvQZOe6VgVxX4_eWwunw2&amp;t=637729656413207958" type="text/javascript"></script>
+
+
+<script src="/lectio/content/runtime.bundle.js?DummyID=yxK3ivGrn3fkmvBnzP-8jw2" type="text/javascript"></script>
+<script src="/lectio/content/vendor.bundle.js?DummyID=Uf0al5ksVJYTkXsNh2FtKA2" type="text/javascript"></script>
+<script src="/lectio/content/lectio.bundle.js?DummyID=e72sQhxrgh6uP0INc94qJw2" type="text/javascript"></script>
+<script src="/lectio/content/lectio-nonie.bundle.js?DummyID=d6sYX50PPnrxISPrIpvtPg2" type="text/javascript"></script>
+<script src="/lectio/content/vendor-post.bundle.js?DummyID=xcNjFFNXgUvN7dzZEHdj2g2" type="text/javascript"></script>
+<script src="/lectio/WebResource.axd?d=x2nkrMJGXkMELz33nwnakNRnKae3Gjnt2lfxcW9VCJhuWxElOl7UvaMoOybcyxQmqSqtxl-vjxrwJCWqurFXakn0NcB_yZgn-EE3QRId7bI1&amp;t=637729656413207958" type="text/javascript"></script>
+<script src="/lectio/WebResource.axd?d=JoBkLzP19aTuxbWOhHobYsL04tfC5NbnTndcYEw1EAZUFVpD702zkPJ0FQlMToLWln4Ppj-UBppGNS-9ssv4ow2&amp;t=637729656413207958" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="qntyuKKbydvLBFQ6ZlgmpYKO/Oi/rckVruRON+hNM4PuxxAJNO8Dmsf6CYv7R/So7VhxJ/pdg9mOT1tzCw1fasw+SlcQjw6vWDzquDj2GsptlsLUwqJci+ngHsckic1JWh9OHpAP1cJDR1+EyHYYIVt+FnZzfBJ6W+2wNsJhE0AdIwzwnneeyScjWM5pWnlxh+G5EYdosJCy11wjClHbBA==" />
+</div>
+<input type="submit" name="m$defaultformbtn" value="" onclick="javascript:LectioJSUtils.FormDefaultButtonActivated(); return false;WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;m$defaultformbtn&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="m_defaultformbtn" tabindex="-1" class="hidetabinputbutton" aria-hidden="true" />
+<header class="lectioBorderLeft lectioBorderRight noprint" role="banner">
+<div id="m_masterHeaderDiv" class="ls-master-header">		
+	<div id="m_masterleftDiv" class="ls-master-header-institution">
+		Mercantec, Midtbyens Gymnasium
+		
+		&nbsp;<select name="m$ChooseTerm$term" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;m$ChooseTerm$term\&#39;,\&#39;\&#39;)&#39;, 0)" id="m_ChooseTerm_term" disabled="disabled" class="aspNetDisabled yearselect">
+
+</select>
+
+		&nbsp;  
+		
+	</div>
+</div>
+	<script>
+		// KV: Postbacks before pageload can result in incomplete posts.
+		// If a postback is detected before end of page, let's wait patiently until it does.
+		// This code should only beactive doing load.
+		// It will be be overridden by PostBackHelper.InitializePostBackOverride at the bottom of the page
+
+		var __LectioPostbackOverriden = false;
+
+		var __postbackPageLoadWaitTimer = 0;
+		function __clearPostbackInterval() {
+			window.clearInterval(__postbackPageLoadWaitTimer);
+			__postbackPageLoadWaitTimer = 0;
+		}
+
+		function __lectioCanPostback() {
+			var mfv = $("input[name='masterfootervalue']");
+			return mfv.length > 0 && __LectioPostbackOverriden;
+		}
+
+		window.__doPostBack = function(target, commandArgument) {
+			console.log('Detecting readyness for postback');
+			if (__lectioCanPostback())
+				window.__doPostBack(target, commandArgument);
+			else {
+				console.log('Postback detected before ready');
+				if (__postbackPageLoadWaitTimer != 0) {
+					__clearPostbackInterval();
+				}
+
+				__postbackPageLoadWaitTimer = window.setInterval(function() {
+					console.log('Waiting to do postback');
+					if (__lectioCanPostback()) {
+						__clearPostbackInterval();
+						console.log('Doing postback');
+						$(function() {
+							window.__doPostBack(target, commandArgument);
+							console.log(window.__doPostBack);
+						});
+					}
+				}, 100);
+			}
+		}
+
+	</script>
+<!-- Start Toolbar -->
+<nav id="m_mastermenu" class="lectioToolbar lectioBorderTop lectioBorderBot" role="navigation">
+	<div class="floatLeft">
+		
+		<div class='button'><a href="/lectio/577/default.aspx" data-role="button" tabindex='0' id="m_defaultaspxLink">Hovedmenu</a></div>
+		
+		
+		
+		<div class='button'><a href="/lectio/577/login.aspx" data-role="button" tabindex='0' id="m_LoginOutLink">Log ind</a></div>
+		<div class='button'><a href="/lectio/577/default.aspx?menu=kontakt&amp;prevurl=login.aspx%3fprevurl%3dlc%252f52507537704%252fres%252f52507537705%252fStudy%2bGuide_CI_2nd%2byear.pdf" data-role="button" tabindex='0' id="m_kontaktLink">Kontakt</a></div>
+		<span class="ls-hidden-smallscreen"><div class='button'><a href="/lectio/577/help/mainhelp.aspx?prevurl=login.aspx%3fprevurl%3dlc%252f52507537704%252fres%252f52507537705%252fStudy%2bGuide_CI_2nd%2byear.pdf" data-role="button" tabindex='0' id="m_HelpLink">Hjælp</a></div></span>
+		
+						
+		
+		
+	</div>
+	<div class="floatRight">
+		<div class="ls-hidden-smallscreen" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;m_mastersearchbtn&#39;)">
+	
+								
+		
+</div>
+	</div>
+	
+</nav>
+<!-- End Toolbar -->
+</header>
+<section id="m_outerContentFrameDiv" class="outerContentFrame" role="main">
+	<div id="m_helptipDiv" style="height:1em;">
+		
+
+<script type="text/javascript">
+	function toggleTip(helptipUrl, container, offsetElement) {
+		$(container).
+			find('iframe').
+			attr("src", helptipUrl);
+		$(container).
+			show().
+			position({ my: 'right top', at: 'right bottom', of: offsetElement, collision: 'none' }).
+			draggable().
+			resizable();
+	}
+</script>
+
+
+
+
+	</div>
+	
+		<div id="m_HeaderContent_pageHeader" class="pageHeader">
+			<div id="MainTitle" class="maintitle" role="heading" aria-level="1">Lectio Log ind</div>
+		</div>
+	
+
+	<div id="contenttable" style="clear:both" class="ls-content">
+
+
+	<script type="text/javascript">
+		if (!LectioCookie.supportsCookies()) {
+			if (self !== top) {
+				top.location.replace(self.location.href);
+			}
+			document.write('<' + 'SPAN class="wizarderrortxt">Da din browser ikke tillader brugen af per-session cookies, er det ikke muligt at benytte Lectio.<' + 'BR><' + 'BR><' + '/SPAN>');
+		}
+	</script>
+	
+	<script type="text/javascript">
+		document.addEventListener("DOMContentLoaded",
+			function () {
+				setTimeout(function () {
+					var isIframed = window.self !== window.top;
+					var htmlElement = document.getElementById('username');
+
+					if (htmlElement == null)
+						return;
+
+					try {
+						htmlElement.focus();		
+						htmlElement.select();		
+					} catch (eee) {
+						JSErrorHandling.reportJSError('htmlElement.select()', 'isIframed:' + isIframed + ' ' + eee);
+						return;
+					}
+
+				}, 20);
+			});
+	</script>
+
+	<div id="m_Content_panel" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;m_Content_submitbtn2&#39;)">
+	
+		Her kan du
+			indtaste dit brugernavn og adgangskode.<br />
+		Der skelnes mellem store og små bogstaver i adgangskoden.<br />
+		Brugernavn og adgangskode udleveres af skolens administration.<br />
+		<br />
+
+		
+
+
+		
+			<script type="text/javascript">
+				//vigtigt at vi ikke bruger jQuery her, da jQuery ikke kan loades for gamle browsere ( <=IE8 )
+				window.onload = function() {
+					if (navigator.userAgent.match(/ MSIE /i) !== null ||
+						(!!window.MSInputMethodContext && !!document.documentMode)) { // https://stackoverflow.com/questions/21825157/internet-explorer-11-detection
+						document.getElementById('browserIeWarning').style.display = "block";
+					}
+				}
+
+				$(function () {
+					PostBackHelper.NotificationReceived.then(function () {
+						window.location.href = LectioJSUtils.GetBaseSchoolURL() + '/forside.aspx';
+					});
+				});
+			</script>
+		
+
+		
+
+		<section class='island  smallBlock defaultBlockHeight' >
+								<div role='heading' class='islandHeaderContainer'>
+									<span class='islandHeader'>Lectio log ind</span>
+									
+								</div>
+								<div id='m_Content_LectioDetailIsland1_pa' class='islandContent'>
+			<table class="ls-std-table-inputlist">
+				<tr id="schoolnametr">
+					<td id="m_Content_schoolnametd" colspan="3" style="height: 30px" class="infoText">Mercantec</td>
+	
+				</tr>
+				<tr id="m_Content_usernametr">
+		<td valign="bottom">Brugernavn:</td>
+		<td valign="bottom">
+						<input name="m$Content$username" type="text" id="username" style="width: 130px" maxlength="30" onkeypress="CapsLock.capsDetect(event, &#39;capsWarning&#39;)" onkeyup="CapsLock.capsToggle(event, &#39;capsWarning&#39;)" onblur="CapsLock.capsReset(event, &#39;capsWarning&#39;)" /></td>
+	</tr>
+	
+				<tr id="m_Content_passwordtr">
+		<td valign="bottom">Adgangskode:</td>
+		<td valign="bottom">
+						<input name="m$Content$password" type="password" id="password" style="width: 130px" maxlength="50" onkeypress="CapsLock.capsDetect(event, &#39;capsWarning&#39;)" onkeyup="CapsLock.capsToggle(event, &#39;capsWarning&#39;)" onblur="CapsLock.capsReset(event, &#39;capsWarning&#39;)" />
+					</td>
+	</tr>
+	
+				
+				<tr>
+					<td colspan="3">
+						<div class="infoText" style="margin-left: 10px; display: none;" id="browserIeWarning">
+							<span style="color: red">Du bruger Internet Explorer.</span><br />
+							Denne browser er ikke længere understøttet i Lectio.<br />
+							Vi anbefaler at du bruger en af følgende browsere:
+							<ul class="infoText">
+								<li>Microsft Edge (Windows 10)</li>
+								<li>Safari (macOS)</li>
+								<li><a href="https://www.google.com/intl/da/chrome/browser/">Google Chrome</a></li>
+								<li><a href="http://www.mozilla.org/da/firefox/new/">Mozilla Firefox</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td><span id="m_Content_NormalViewUserNameValidator" class="alert" style="display:none;"></span></td>
+					<td><span class="alert" id="capsWarning" style="display: none;">Caps Lock er slået til</span></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td align="right">
+						<div class='button'><a href="#" data-role="button" tabindex='0' onclick='WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;m$Content$submitbtn2&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true)); return false;' id="m_Content_submitbtn2">Log ind</a></div>
+					</td>
+				</tr>
+			</table>
+			<div class="ls-std-rowblock">
+				<div></div>
+				<div>
+				</div>
+			</div>
+			</div>
+							</section>
+
+	
+</div>
+
+	</div>
+</section>
+			
+<footer id="m_masterFooter" class="ls-master-footer">
+	<span id="m_masterfootermacomSpan" style="padding-left:0.5em"><a href="http://www.macom.dk" target="_blank" title="Besøg www.macom.dk">&copy; MaCom A/S</a></span>
+	<span id="m_masterfootermacomsupportSpan" class="ls-hidden-smallscreen"><a href="mailto:LectioSupport@macom.dk?subject=Lectio" title="Send e-mail til MaCom">E-mail</a></span>
+	<span id="m_masterfooterversioninfoSpan" class="ls-hidden-smallscreen"><a id="m_VersionInfoLink" title="Se versioninformation" href="/lectio/577/VersionInfo.aspx?prevurl=login.aspx%3fprevurl%3dlc%252f52507537704%252fres%252f52507537705%252fStudy%2bGuide_CI_2nd%2byear.pdf">Lectio version 19.107</a></span>
+	
+	<span>
+		<span id="m_masterfooternowSpan">10/3-2022  kl. 09:14</span>
+		<span id="m_masterfootertiltopSpan" style="width:10px">
+			<a href="#masterContent"><span title="Til top" style="font-size:1em;position:relative;top:0.1em">&nbsp;^&nbsp;</span></a>
+		</span>
+	</span>
+</footer>
+
+	<input type="hidden" name="masterfootervalue" value="X1!ÆØÅ"/>
+
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("m_Content_NormalViewUserNameValidator"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var m_Content_NormalViewUserNameValidator = document.all ? document.all["m_Content_NormalViewUserNameValidator"] : document.getElementById("m_Content_NormalViewUserNameValidator");
+m_Content_NormalViewUserNameValidator.controltovalidate = "username";
+m_Content_NormalViewUserNameValidator.display = "None";
+m_Content_NormalViewUserNameValidator.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+m_Content_NormalViewUserNameValidator.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+ContextCard.InitContextCard("/lectio/577", "login.aspx?prevurl=lc%2f52507537704%2fres%2f52507537705%2fStudy+Guide_CI_2nd+year.pdf");
+window.SessionHelper && SessionHelper.Initialize(false, null, null, null);
+LectioExtensions.Init();
+LectioPageOps.InitScriptErrorHandling(true, false);
+CommandRegistry.InitializeLinkSearch('/lectio/link-templates.json?DummyID=4plgaZijz0mBpDvjXdsPeQ2');
+LectioPageOps.PrepareAutoFocus();
+KeyboardNav.Initialize();
+LectioTextBox.Initialize();
+PostBackHelper.InitializeClickHelper();
+PostBackHelper.InitializePostBackOverride();
+__LectioPostbackOverriden = true;
+LectioValidator.Initialize();
+LectioScript.Initialize();
+LectioCKEditor.Initialize();
+LectioWebform.Initialize();
+LectioCluetips.Initialize();
+LectioPageOps.PrepareMaintainScrollPosition(false);
+LectioContextMenu.Initialize(true);
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        LectioPageOps.InitializeHistory(PageHistoryBehavior.PrevUrl);
+WebForm_AutoFocus('contenttable');document.getElementById('m_Content_NormalViewUserNameValidator').evaluationfunction = LectioValidator.LectioRequiredFieldValidatorEvaluateIsValid;
+//]]>
+</script>
+</form>
+</div>
+
+</body>
+</html>
