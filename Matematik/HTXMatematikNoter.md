@@ -18,7 +18,8 @@
 
 ### Eksempel: index af prisforskelle
 
-| 2020 | 2023 
+varer | 2020 | 2023 
+---|---|---
 mobil | 3000 | 3660
 smør | 15 | 33
 ---|---|---
