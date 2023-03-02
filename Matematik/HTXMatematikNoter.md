@@ -67,7 +67,7 @@ T = 1/2 * G * h
 
 T = 1/2 * a * b * sin(C)
 ```
-
+.
 ### Eksempel: areal af trekant
 
 ```
@@ -90,4 +90,5 @@ T = 1/2 * a * sin(C) * b
 T = 1/2 * a * b * sin(C)
 ```
 
+### Opgave 3.4.3
 
