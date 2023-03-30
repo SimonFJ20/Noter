@@ -13,3 +13,7 @@ An example could be that a "non Native American" dressed up as a "Native America
 ## Perspektivering
 
 ## Konklusion
+
+### Sources
+
+1: "Native Americans face a 27 percent poverty rate" (US-studies: page 19, line 18 )
