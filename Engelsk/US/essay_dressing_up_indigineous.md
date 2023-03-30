@@ -6,6 +6,10 @@ Dressing up on halloween is a tradition. The costumes include everything from fi
 
 ## Diskussion
 
+People that dress up for fun or educational means, that is part of the first amendment of free speech.
+However the culture that u dressed up as, it should not be used to promote hate speech or depicting the culture in a negative way.
+An example could be that a "non Native American" dressed up as a "Native American" and started to acting stupid and taking drugs.
+
 ## Perspektivering
 
 ## Konklusion
